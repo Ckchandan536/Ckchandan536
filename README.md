@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandan kumar</h1>
+<h1 align="center">Hi U+1F44B, I'm Chandan kumar</h1>
 <h3 align="center">I'm a Web Developer and Coder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckchandan536&label=Profile%20views&color=0e75b6&style=flat" alt="ckchandan536" /> </p>
