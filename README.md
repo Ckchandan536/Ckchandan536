@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](My Portfolio)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ckchandan536.github.io/port-folio)**
 
 - 📫 How to reach me **ckchandan536@gmail.com**
 
@@ -38,7 +38,8 @@
 <br/>
 <br/>
 ## 📊 My Github Stats
- <br/>
+<br/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ckchandan536&show_icons=true&locale=en&layout=compact" alt="ckchandan536" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ckchandan536&show_icons=true&locale=en" alt="ckchandan536" /></p>
@@ -48,7 +49,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Sunny-kumar-gupta/github-readme-activity-graph"><img alt="Chandan kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sunny-kumar-gupta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ckchandan536/github-readme-activity-graph"><img alt="Chandan kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ckchandan536&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
