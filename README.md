@@ -32,9 +32,9 @@
 </p>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sunny-kumar-gupta">
+    <img src="https://komarev.com/ghpvc/?username=Ckchandan536">
 </a>
-<a href="https://github.com/Sunny-kumar-gupta?tab=followers"><img src="https://img.shields.io/github/followers/Sunny-kumar-gupta?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ckchandan536?tab=followers"><img src="https://img.shields.io/github/followers/Ckchandan536?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 ## 🚀 Languages and Tools:
