@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Sunny-kumar-gupta/github-readme-activity-graph"><img alt="Sunny-kumar-gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sunny-kumar-gupta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Sunny-kumar-gupta/github-readme-activity-graph"><img alt="Chandan kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sunny-kumar-gupta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
