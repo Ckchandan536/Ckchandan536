@@ -46,15 +46,15 @@
 ## 📊 My Github Stats
 <br/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ckchandan536&show_icons=true&locale=en&layout=compact" alt="ckchandan536" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ckchandan536&show_icons=true&locale=en&layout=compact" alt="Ckchandan536" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ckchandan536&show_icons=true&locale=en" alt="ckchandan536" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ckchandan536&show_icons=true&locale=en" alt="Ckchandan536" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ckchandan536&" alt="ckchandan536" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ckchandan536&" alt="" /></p>
 <br/>
 <br/>
 
-<a href="https://github.com/delegent/github-readme-activity-graph"><img alt="ckchandan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ckchandan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/delegent/github-readme-activity-graph"><img alt="Ckchandan536's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ckchandan536&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
