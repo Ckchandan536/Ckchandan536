@@ -1,5 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chandan kumar</h1>
 <h3 align="center">I'm a Web Developer and Coder.</h3>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github Banner.svg" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckchandan536&label=Profile%20views&color=0e75b6&style=flat" alt="ckchandan536" /> </p>
 
