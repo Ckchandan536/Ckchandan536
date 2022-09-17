@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/ckchandan536" target="blank"><img src="https://img.shields.io/twitter/follow/ckchandan536?logo=twitter&style=for-the-badge" alt="ckchandan536" /></a> </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on **MERN STACK** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
@@ -22,6 +24,7 @@
 - 📫 How to reach me **ckchandan536@gmail.com**
 
 - ⚡ Hobbies **I love to do workouts and being updated on the tech trends**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,6 +54,8 @@
 <br/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ckchandan536&show_icons=true&locale=en&layout=compact" alt="Ckchandan536" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ckchandan536&show_icons=true&locale=en" alt="Ckchandan536" /></p>
 
