@@ -1,9 +1,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20%F0%9F%91%8B,%20I%27m%20Chandan&nbsp;Kumar,%20welcome%20to%20my%20GitHub%20Profile&height=100&width=1000)](https://github.com/Ckchandan536/svg-banners)
 <h3 align="center">I'm a Web Developer and Coder.</h3>
 ---
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github Banner.svg" width="100%" title="Intro Card" alt="Intro Card">
+ <img src="https://github.com/Ckchandan536/Ckchandan536/blob/43df77225fe10d088db4bb1dd5557e6ffbecd44e/Intro%20Card%20oct.%202022.jpg" width="1000" height="350" title="Intro Card" alt="Intro Card">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckchandan536&label=Profile%20views&color=0e75b6&style=flat" alt="ckchandan536" /> </p>
