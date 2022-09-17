@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/ckchandan536" target="blank"><img src="https://img.shields.io/twitter/follow/ckchandan536?logo=twitter&style=for-the-badge" alt="ckchandan536" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **MERN STACK** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -63,6 +63,10 @@
 
 <br/>
 <br/>
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
 
 ***
 
