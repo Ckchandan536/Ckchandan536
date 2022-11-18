@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ckchandan536" alt="ckchandan536" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ckchandan536" target="blank"><img src="https://img.shields.io/twitter/follow/ckchandan536?logo=twitter&style=for-the-badge" alt="ckchandan536" /></a> </p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
