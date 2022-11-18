@@ -5,8 +5,6 @@
  <img src="https://github.com/Ckchandan536/Ckchandan536/blob/43df77225fe10d088db4bb1dd5557e6ffbecd44e/Intro%20Card%20oct.%202022.jpg" width="1000" height="350" title="Intro Card" alt="Intro Card">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ckchandan536&label=Profile%20views&color=0e75b6&style=flat" alt="ckchandan536" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ckchandan536" alt="ckchandan536" /></a> </p>
 
 
