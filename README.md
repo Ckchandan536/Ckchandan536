@@ -16,8 +16,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://Ckchandan536.github.io/port-folio)**
-
 - 📫 How to reach me **ckchandan536@gmail.com**
 
 - ⚡ Hobbies **I love to do workouts and being updated on the tech trends**
