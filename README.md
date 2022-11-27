@@ -45,8 +45,9 @@
   <br><br>
   [![Quiz App](https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://ckchandan536.github.io/Quiz-App-Major-Project-Testbook/)
   [![Airbnb Clone](https://img.shields.io/badge/9-Airbnb_Clone_NodeJS-2ea44f?style=for-the-badge&color=F24481)](https://airbnbclone-production-614f.up.railway.app/)
-  [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone_CSS-2ea44f?style=for-the-badge&color=002499)](https://ckchandan536.github.io/Static-LinkedIn-Responive-Front-page/)
+  [![Instagram Clone](https://img.shields.io/badge/9-Instagram_Clone_ReactJS-2ea44f?style=for-the-badge&color=F24481)](https://ckchandan536.github.io/Instagram-clone-v.1/Chandan536)
   [![Tweet quotes from your own web page](https://img.shields.io/badge/5-Twitter-2ea44f?style=for-the-badge&color=yellow)](https://ckchandan536.github.io/tweet-the-quotes-from-from-your-web-page-to-the-twitter-wall-page/)
+  [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone_CSS-2ea44f?style=for-the-badge&color=002499)](https://ckchandan536.github.io/Static-LinkedIn-Responive-Front-page/)
 
 
 
